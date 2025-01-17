@@ -1,0 +1,6 @@
+D:\Datta_Git\Project_FileManagement\DAL\bin\Debug\DAL.dll
+D:\Datta_Git\Project_FileManagement\DAL\bin\Debug\DAL.pdb
+D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.dll
+D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.pdb

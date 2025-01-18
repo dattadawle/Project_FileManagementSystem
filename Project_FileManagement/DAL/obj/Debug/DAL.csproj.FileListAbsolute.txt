@@ -4,3 +4,15 @@ D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.c
 D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
 D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.dll
 D:\Datta_Git\Project_FileManagement\DAL\obj\Debug\DAL.pdb
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\DAL.dll.config
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\DAL.dll
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\DAL.pdb
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\EntityFramework.dll
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\EntityFramework.xml
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\obj\Debug\DAL.csproj.Up2Date
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\obj\Debug\DAL.dll
+D:\Datta_Git\Project_FileManagementSystem\Project_FileManagement\DAL\obj\Debug\DAL.pdb

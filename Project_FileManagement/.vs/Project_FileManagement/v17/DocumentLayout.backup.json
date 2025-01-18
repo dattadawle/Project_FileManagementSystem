@@ -1,7 +1,32 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Datta_Git\\Project_FileManagement\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\dal\\entity\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\files.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\dal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\dal\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\dal\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|solutionrelative:dal\\entity\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C147C39-261A-4C9C-ACE2-64BACAAF0686}|Project_FileManagement\\Project_FileManagement.csproj|D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\project_filemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4C147C39-261A-4C9C-ACE2-64BACAAF0686}|Project_FileManagement\\Project_FileManagement.csproj|solutionrelative:project_filemanagement\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|d:\\datta_git\\project_filemanagementsystem\\project_filemanagement\\dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01077916-9E84-420E-81D3-76FB0E3402D2}|DAL\\DAL.csproj|solutionrelative:dal\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +34,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\ApplicationDbContext.cs",
+              "RelativeToolTip": "DAL\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T06:42:26.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\Project_FileManagement\\Web.config",
+              "RelativeDocumentMoniker": "Project_FileManagement\\Web.config",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\Project_FileManagement\\Web.config",
+              "RelativeToolTip": "Project_FileManagement\\Web.config",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwBgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-17T17:51:45.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\UserRole.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\UserRole.cs",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\UserRole.cs",
+              "RelativeToolTip": "DAL\\Entity\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:46:30.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\Role.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Role.cs",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\Role.cs",
+              "RelativeToolTip": "DAL\\Entity\\Role.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:46:17.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\User.cs",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\User.cs",
+              "RelativeToolTip": "DAL\\Entity\\User.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:46:07.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Files.cs",
+              "DocumentMoniker": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\Files.cs",
+              "RelativeDocumentMoniker": "DAL\\Entity\\Files.cs",
+              "ToolTip": "D:\\Datta_Git\\Project_FileManagementSystem\\Project_FileManagement\\DAL\\Entity\\Files.cs",
+              "RelativeToolTip": "DAL\\Entity\\Files.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAIwAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T17:45:53.645Z",
+              "EditorCaption": ""
             }
           ]
         }

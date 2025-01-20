@@ -1,0 +1,14 @@
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\DAL_EF.dll.config
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\DAL_EF.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\DAL_EF.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\EntityFramework.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\EntityFramework.xml
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.csproj.AssemblyReference.cache
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.csproj.CoreCompileInputs.cache
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.csproj.Up2Date
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.Migrations.FileDb5.resources
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\DAL_EF\obj\Debug\DAL_EF.csproj.GenerateResource.cache

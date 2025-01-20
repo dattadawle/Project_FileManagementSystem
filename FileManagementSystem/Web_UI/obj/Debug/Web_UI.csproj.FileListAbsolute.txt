@@ -82,3 +82,10 @@ D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\obj\Debug\
 D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\obj\Debug\Web_UI.csproj.Up2Date
 D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\obj\Debug\Web_UI.dll
 D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\obj\Debug\Web_UI.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\BAL.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\Repositories.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\BAL.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\Repositories.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\Repositories.dll.config
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\EntityFramework.SqlServer.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Web_UI\bin\EntityFramework.SqlServer.xml

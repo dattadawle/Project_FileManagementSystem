@@ -1,0 +1,15 @@
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\Repositories.dll.config
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\Repositories.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\Repositories.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\DAL_EF.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\EntityFramework.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\EntityFramework.SqlServer.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\DAL_EF.pdb
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\DAL_EF.dll.config
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\EntityFramework.xml
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\bin\Debug\EntityFramework.SqlServer.xml
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\obj\Debug\Repositories.csproj.AssemblyReference.cache
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\obj\Debug\Repositories.csproj.CoreCompileInputs.cache
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\obj\Debug\Reposito.787EC4B2.Up2Date
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\obj\Debug\Repositories.dll
+D:\Datta_Git\Project_FileManagementSystem\FileManagementSystem\Repositories\obj\Debug\Repositories.pdb
